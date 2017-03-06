@@ -1,0 +1,6 @@
+﻿  Battle_Graphic.cpp
+d:\17-win\battle_graphic\battle_graphic\battle_graphic.cpp(327): warning C4018: '<': signed/unsigned mismatch
+d:\17-win\battle_graphic\battle_graphic\battle_graphic.cpp(415): warning C4553: '==': operator has no effect; did you intend '='?
+d:\17-win\battle_graphic\battle_graphic\battle_graphic.cpp(226): warning C4715: 'render_shooting_symbol': not all control paths return a value
+  Battle_Graphic.vcxproj -> D:\17-Win\Battle_Graphic\Debug\Battle_Graphic.exe
+  Battle_Graphic.vcxproj -> D:\17-Win\Battle_Graphic\Debug\Battle_Graphic.pdb (Full PDB)
